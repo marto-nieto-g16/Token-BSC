@@ -1,6 +1,6 @@
-# TokenBEP20-BSC
+# Token BSC
 project for a token on the binance smart chain network
 
 ## Requirements 
  IDE Remix  (https://remix.ethereum.org/) <br>
- MetaMask o TrusWallet
+ MetaMask o TrustWallet
