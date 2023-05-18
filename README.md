@@ -1,7 +1,7 @@
 
 # Contrato de token BEP20
 
-Este es un contrato Solidity para un token BEP20, basado en el estándar ERC20. El token se crea con un suministro fijo de 100,000,000 y tiene el nombre "Name" y el símbolo "Symbol".
+Este es un contrato Solidity para un token BEP20, basado en el estándar ERC20. El token se crea con un suministro fijo de 100,000,000 y tiene el nombre "TokenBSC" y el símbolo "TBSC".
 
 ## Prerrequisitos
 
